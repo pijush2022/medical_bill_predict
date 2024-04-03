@@ -25,7 +25,7 @@ The [Medical Cost Prediction](https://www.kaggle.com/datasets/mirichoi0218/insur
 ## Getting Started (Cloning)
 Clone the repo using 
 ```
-[git clone https://github.com/NvkAnirudh/Medical_Cost_Prediction.git](https://github.com/pijush2022/medical_bill_predict)
+(https://github.com/pijush2022/medical_bill_predict)
 ```
 ## Installing 
 Install the required packages from ``requirements.txt`` after commenting out ``-e .`` which runs ``setup.py`` automatically.
