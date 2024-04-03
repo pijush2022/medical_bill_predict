@@ -1,6 +1,12 @@
 # Medical Cost Prediction
 Predicting medical costs of individuals based on different features using several ML (Regression) algorithms. The application was deployed on AWS EC2 through AWS ECR (Dockerized Container).
 
+#Interface
+
+![git_medical](https://github.com/pijush2022/medical_bill_predict/assets/104580397/a3f9fa8e-fba8-4362-9019-9c19a103915a)
+
+
+
 ## Dataset
 The [Medical Cost Prediction](https://www.kaggle.com/datasets/mirichoi0218/insurance) consists of around 1300 records and six independent variables along with ``charges`` target  variable:
 
